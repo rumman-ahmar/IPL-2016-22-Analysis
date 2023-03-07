@@ -1,0 +1,244 @@
+player_name,player_type,player_auction_price,retained_status,ipl_team,player_country
+Bhagath Varma, Allrounder,20.00Lakh,No,CSK,India
+Ajay Jadav Mandal, Allrounder,20.00Lakh,No,CSK,India
+Kyle Jamieson,Allrounder,1.00Crore,No,CSK,New Zealand
+Nishant Sindhu, Allrounder,60.00Lakh,No,CSK,India
+Shaik Rasheed, Batter,20.00Lakh,No,CSK,India
+Ajinkya Rahane, Batter,50.00Lakh,No,CSK,India
+Ben Stokes,Allrounder,16.25Crore,No,CSK,England
+Matheesha Pathirana,Bowler,20.00Lakh,Yes,CSK,Sri Lanka
+Mukesh Choudhary, Bowler,20.00Lakh,Yes,CSK,India
+Subhranshu Senapati, Batter,20.00Lakh,Yes,CSK,India
+Tushar Deshpande, Bowler,20.00Lakh,Yes,CSK,India
+Mitchell Santner,Allrounder,1.90Crore,Yes,CSK,New Zealand
+Devon Conway,Batter,1.00Crore,Yes,CSK,New Zealand
+Prashant Solanki, Bowler,1.20Crore,Yes,CSK,India
+Simarjeet Singh, Bowler,20.00Lakh,Yes,CSK,India
+Deepak Chahar, Bowler,14.00Crore,Yes,CSK,India
+Ambati Rayudu, WK-Batter,6.75Crore,Yes,CSK,India
+Rajvardhan Hangargekar, Bowler,1.50Crore,Yes,CSK,India
+Maheesh Theekshana,Bowler,70.00Lakh,Yes,CSK,Sri Lanka
+Shivam Dube, Allrounder,4.00Crore,Yes,CSK,India
+Dwaine Pretorius,Allrounder,50.00Lakh,Yes,CSK,South Africa
+Ravindra Jadeja, Allrounder,16.00Crore,Yes,CSK,India
+MS Dhoni, WK-Batter,12.00Crore,Yes,CSK,India
+Moeen Ali,Allrounder,8.00Crore,Yes,CSK,England
+Ruturaj Gaikwad, Batter,6.00Crore,Yes,CSK,India
+Sonu Yadav, Allrounder,20.00Lakh,No,RCB,India
+Avinash Singh, Bowler,60.00Lakh,No,RCB,India
+Rajan Kumar, Bowler,70.00Lakh,No,RCB,India
+Manoj Bhandage, Allrounder,20.00Lakh,No,RCB,India
+Will Jacks,Allrounder,3.20Crore,No,RCB,England
+Himanshu Sharma, Bowler,20.00Lakh,No,RCB,India
+Reece Topley,Bowler,1.90Crore,No,RCB,England
+Rajat Patidar, Batter,20.00Lakh,Yes,RCB,India
+Shahbaz Ahmed, Allrounder,2.40Crore,Yes,RCB,India
+Siddarth Kaul, Bowler,75.00Lakh,Yes,RCB,India
+Anuj Rawat, WK-Batter,3.40Crore,Yes,RCB,India
+Suyash Prabhudessai, Batter,30.00Lakh,Yes,RCB,India
+Finn Allen,WK-Batter,80.00Lakh,Yes,RCB,New Zealand
+Josh Hazlewood,Bowler,7.75Crore,Yes,RCB,Australia
+Mahipal Lomror, Allrounder,95.00Lakh,Yes,RCB,India
+Dinesh Karthik, WK-Batter,5.50Crore,Yes,RCB,India
+Harshal Patel, Bowler,10.75Crore,Yes,RCB,India
+Karn Sharma, Bowler,50.00Lakh,Yes,RCB,India
+David Willey,Allrounder,2.00Crore,Yes,RCB,England
+Wanindu Hasaranga,Allrounder,10.75Crore,Yes,RCB,Sri Lanka
+Faf du Plessis,Batter,7.00Crore,Yes,RCB,South Africa
+Mohammed Siraj, Bowler,7.00Crore,Yes,RCB,India
+Glenn Maxwell,Allrounder,11.00Crore,Yes,RCB,Australia
+Virat Kohli, Batter,15.00Crore,Yes,RCB,India
+Akash Deep, Bowler,20.00Lakh,Yes,RCB,India
+Rilee Rossouw,Batter,4.60Crore,No,DC,South Africa
+Manish Pandey, Batter,2.40Crore,No,DC,India
+Mukesh Kumar, Bowler,5.50Crore,No,DC,India
+Ishant Sharma, Bowler,50.00Lakh,No,DC,India
+Philip Salt,Batter,2.00Crore,No,DC,England
+Aman Hakim Khan, Bowler,20.00Lakh,No,DC,India
+Yash Dhull, Batter,50.00Lakh,Yes,DC,India
+Praveen Dubey, Bowler,50.00Lakh,Yes,DC,India
+Sarfaraz Khan, Batter,20.00Lakh,Yes,DC,India
+Kuldeep Yadav, Bowler,2.00Crore,Yes,DC,India
+Kamlesh Nagarkoti, Bowler,1.10Crore,Yes,DC,India
+Mustafizur Rahman,Bowler,2.00Crore,Yes,DC,Bangladesh
+Rovman Powell,Batter,2.80Crore,Yes,DC,West Indies
+Ripal Patel, Allrounder,20.00Lakh,Yes,DC,India
+Vicky Ostwal, Allrounder,20.00Lakh,Yes,DC,India
+Mitchell Marsh,Allrounder,6.50Crore,Yes,DC,Australia
+Chetan Sakariya, Bowler,4.20Crore,Yes,DC,India
+Lungi Ngidi,Bowler,50.00Lakh,Yes,DC,South Africa
+Khaleel Ahmed, Bowler,5.25Crore,Yes,DC,India
+Lalit Yadav, Allrounder,65.00Lakh,Yes,DC,India
+David Warner,Batter,6.25Crore,Yes,DC,Australia
+Anrich Nortje,Bowler,6.50Crore,Yes,DC,South Africa
+Prithvi Shaw, Batter,7.50Crore,Yes,DC,India
+Rishabh Pant, WK-Batter,16.00Crore,Yes,DC,India
+Axar Patel, Allrounder,9.00Crore,Yes,DC,India
+Mohit Sharma, Bowler,50.00Lakh,No,GT,India
+Joshua Little,Bowler,4.40Crore,No,GT,Ireland
+Urvil Patel, WK-Batter,20.00Lakh,No,GT,India
+Shivam Mavi, Bowler,6.00Crore,No,GT,India
+Srikar Bharat, WK-Batter,1.20Crore,No,GT,India
+Odean Smith,Allrounder,50.00Lakh,No,GT,West Indies
+Kane Williamson,Batter,2.00Crore,No,GT,New Zealand
+Abhinav Manohar Sadarangani, Batter,2.60Crore,Yes,GT,India
+Sai Sudharsan, Batter,20.00Lakh,Yes,GT,India
+Rahul Tewatia, Allrounder,9.00Crore,Yes,GT,India
+Ravisrinivasan Sai Kishore, Bowler,3.00Crore,Yes,GT,India
+Alzarri Joseph,Bowler,2.40Crore,Yes,GT,West Indies
+Pradeep Sangwan, Bowler,20.00Lakh,Yes,GT,India
+Noor Ahmad,Bowler,30.00Lakh,Yes,GT,Afghanistan
+Yash Dayal, Bowler,3.20Crore,Yes,GT,India
+Matthew Wade,WK-Batter,2.40Crore,Yes,GT,Australia
+Wriddhiman Saha, WK-Batter,1.90Crore,Yes,GT,India
+Darshan Nalkande, Bowler,20.00Lakh,Yes,GT,India
+Jayant Yadav, Allrounder,1.70Crore,Yes,GT,India
+Vijay Shankar, Allrounder,1.40Crore,Yes,GT,India
+David Miller,Batter,3.00Crore,Yes,GT,South Africa
+Mohammed Shami, Bowler,6.25Crore,Yes,GT,India
+Shubman Gill, Batter,8.00Crore,Yes,GT,India
+Rashid Khan,Bowler,15.00Crore,Yes,GT,Afghanistan
+Hardik Pandya, Allrounder,15.00Crore,Yes,GT,India
+Harshit Rana, Bowler,20.00Lakh,Yes,KKR,India
+Shakib Al Hasan,Allrounder,1.50Crore,No,KKR,Bangladesh
+Mandeep Singh, Batter,50.00Lakh,No,KKR,India
+Litton Das,WK-Batter,50.00Lakh,No,KKR,Bangladesh
+Kulwant Khejroliya, Bowler,20.00Lakh,No,KKR,India
+David Wiese,Allrounder,1.00Crore,No,KKR,Namibia
+Suyash Sharma, Bowler,20.00Lakh,No,KKR,India
+N Jagadeesan, WK-Batter,90.00Lakh,No,KKR,India
+Vaibhav Arora, Allrounder,60.00Lakh,No,KKR,India
+Rahmanullah Gurbaz,WK-Batter,50.00Lakh,No,KKR,Afghanistan
+Umesh Yadav, Bowler,2.00Crore,Yes,KKR,India
+Shardul Thakur, Bowler,10.75Crore,No,KKR,India
+Tim Southee,Bowler,1.50Crore,Yes,KKR,New Zealand
+Lockie Ferguson,Bowler,10.00Crore,No,KKR,New Zealand
+Anukul Roy, Allrounder,20.00Lakh,Yes,KKR,India
+Nitish Rana, Allrounder,8.00Crore,Yes,KKR,India
+Rinku Singh, Batter,55.00Lakh,Yes,KKR,India
+Shreyas Iyer, Batter,12.25Crore,Yes,KKR,India
+Sunil Narine,Allrounder,6.00Crore,Yes,KKR,West Indies
+Venkatesh Iyer, Allrounder,8.00Crore,Yes,KKR,India
+Varun Chakaravarthy, Bowler,8.00Crore,Yes,KKR,India
+Andre Russell,Allrounder,12.00Crore,Yes,KKR,West Indies
+Yudhvir Singh Charak, Allrounder,20.00Lakh,No,LSG,India
+Naveen-ul-Haq,Allrounder,50.00Lakh,No,LSG,Afghanistan
+Swapnil Singh, Allrounder,20.00Lakh,No,LSG,India
+Prerak Mankad, Allrounder,20.00Lakh,No,LSG,India
+Amit Mishra, Bowler,50.00Lakh,No,LSG,India
+Daniel Sams,Allrounder,75.00Lakh,No,LSG,Australia
+Romario Shepherd,Bowler,50.00Lakh,No,LSG,West Indies
+Yash Thakur, Bowler,45.00Lakh,No,LSG,India
+Jaydev Unadkat, Bowler,50.00Lakh,No,LSG,India
+Nicholas Pooran,WK-Batter,16.00Crore,No,LSG,West Indies
+Ravi Bishnoi, Bowler,4.00Crore,Yes,LSG,India
+Deepak Hooda, Allrounder,5.75Crore,Yes,LSG,India
+Mark Wood,Bowler,7.50Crore,Yes,LSG,England
+Avesh Khan, Bowler,10.00Crore,Yes,LSG,India
+Ayush Badoni, Allrounder,20.00Lakh,Yes,LSG,India
+Mayank Yadav, Bowler,20.00Lakh,Yes,LSG,India
+Mohsin Khan, Bowler,20.00Lakh,Yes,LSG,India
+Manan Vohra, Batter,20.00Lakh,Yes,LSG,India
+Krunal Pandya, Allrounder,8.25Crore,Yes,LSG,India
+Krishnappa Gowtham, Allrounder,90.00Lakh,Yes,LSG,India
+Karan Sharma, Allrounder,20.00Lakh,Yes,LSG,India
+Kyle Mayers,Allrounder,50.00Lakh,Yes,LSG,West Indies
+Quinton de Kock,WK-Batter,6.75Crore,Yes,LSG,South Africa
+KL Rahul, WK-Batter,17.00Crore,Yes,LSG,India
+Marcus Stoinis,Allrounder,9.20Crore,Yes,LSG,Australia
+Raghav Goyal, Bowler,20.00Lakh,No,MI,India
+Nehal Wadhera, Allrounder,20.00Lakh,No,MI,India
+Shams Mulani, Allrounder,20.00Lakh,No,MI,India
+Vishnu Vinod, WK-Batter,20.00Lakh,No,MI,India
+Duan Jansen,Allrounder,20.00Lakh,No,MI,South Africa
+Piyush Chawla, Bowler,50.00Lakh,No,MI,India
+Jhye Richardson,Bowler,1.50Crore,No,MI,Australia
+Cameron Green,Allrounder,17.50Crore,No,MI,Australia
+Tristan Stubbs,WK-Batter,20.00Lakh,Yes,MI,South Africa
+Akash Madhwal, Bowler,20.00Lakh,Yes,MI,India
+Kumar Kartikeya, Allrounder,20.00Lakh,Yes,MI,India
+Dewald Brevis,Batter,3.00Crore,Yes,MI,South Africa
+Tim David,Allrounder,8.25Crore,Yes,MI,Singapore
+Ramandeep Singh, Batter,20.00Lakh,Yes,MI,India
+Jason Behrendorff,Bowler,75.00Lakh,No,MI,Australia
+Jofra Archer,Bowler,8.00Crore,Yes,MI,England
+Tilak Varma, Batter,1.70Crore,Yes,MI,India
+Ishan Kishan, WK-Batter,15.25Crore,Yes,MI,India
+Mohd Arshad Khan, Bowler,20.00Lakh,Yes,MI,India
+Arjun Tendulkar, Allrounder,30.00Lakh,Yes,MI,India
+Hrithik Shokeen, Allrounder,20.00Lakh,Yes,MI,India
+Suryakumar Yadav, Batter,8.00Crore,Yes,MI,India
+Jasprit Bumrah, Bowler,12.00Crore,Yes,MI,India
+Rohit Sharma, Batter,16.00Crore,Yes,MI,India
+Shivam Singh, Allrounder,20.00Lakh,No,PBKS,India
+Mohit Rathee, Allrounder,20.00Lakh,No,PBKS,India
+Vidhwath Kaverappa, Bowler,20.00Lakh,No,PBKS,India
+Harpreet Singh Bhatia, Batter,40.00Lakh,No,PBKS,India
+Sikandar Raza,Allrounder,50.00Lakh,No,PBKS,Zimbabwe
+Sam Curran,Allrounder,18.50Crore,No,PBKS,England
+Harpreet Brar, Bowler,3.80Crore,Yes,PBKS,India
+Atharva Taide, Allrounder,20.00Lakh,Yes,PBKS,India
+Shahrukh Khan, Batter,9.00Crore,Yes,PBKS,India
+Rahul Chahar, Bowler,5.25Crore,Yes,PBKS,India
+Jitesh Sharma, WK-Batter,20.00Lakh,Yes,PBKS,India
+Nathan Ellis,Bowler,75.00Lakh,Yes,PBKS,Australia
+Prabhsimran Singh, WK-Batter,60.00Lakh,Yes,PBKS,India
+Rishi Dhawan, Allrounder,55.00Lakh,Yes,PBKS,India
+Bhanuka Rajapaksa,Batter,50.00Lakh,Yes,PBKS,Sri Lanka
+Jonny Bairstow,WK-Batter,6.75Crore,Yes,PBKS,England
+Raj Bawa, Bowler,2.00Crore,Yes,PBKS,India
+Liam Livingstone,Allrounder,11.50Crore,Yes,PBKS,England
+Baltej Singh, Allrounder,20.00Lakh,Yes,PBKS,India
+Kagiso Rabada,Bowler,9.25Crore,Yes,PBKS,South Africa
+Shikhar Dhawan, Batter,8.25Crore,Yes,PBKS,India
+Arshdeep Singh, Bowler,4.00Crore,Yes,PBKS,India
+Joe Root,Batter,1.00Crore,No,RR,England
+Abdul Basith, Allrounder,20.00Lakh,No,RR,India
+Akash Vashist, Allrounder,20.00Lakh,No,RR,India
+Murugan Ashwin, Bowler,20.00Lakh,No,RR,India
+KM Asif, Bowler,30.00Lakh,No,RR,India
+Adam Zampa,Bowler,1.50Crore,No,RR,Australia
+Kunal Singh Rathore, WK-Batter,20.00Lakh,No,RR,India
+Donavon Ferreira,WK-Batter,50.00Lakh,No,RR,South Africa
+Jason Holder,Allrounder,5.75Crore,No,RR,West Indies
+Dhruv Jurel, WK-Batter,20.00Lakh,Yes,RR,India
+Obed McCoy,Bowler,75.00Lakh,Yes,RR,West Indies
+Riyan Parag, Allrounder,3.80Crore,Yes,RR,India
+Yuzvendra Chahal, Bowler,6.50Crore,Yes,RR,India
+Kuldeep Sen, Bowler,20.00Lakh,Yes,RR,India
+Prasidh Krishna, Bowler,10.00Crore,Yes,RR,India
+KC Cariappa, Bowler,30.00Lakh,Yes,RR,India
+Navdeep Saini, Bowler,2.60Crore,Yes,RR,India
+Kuldip Yadav, Bowler,20.00Lakh,Yes,RR,India
+Devdutt Padikkal, Batter,7.75Crore,Yes,RR,India
+Shimron Hetmyer,Batter,8.50Crore,Yes,RR,West Indies
+Trent Boult,Bowler,8.00Crore,Yes,RR,New Zealand
+Ravichandran Ashwin, Allrounder,5.00Crore,Yes,RR,India
+Yashasvi Jaiswal, Batter,4.00Crore,Yes,RR,India
+Jos Buttler,WK-Batter,10.00Crore,Yes,RR,England
+Sanju Samson, WK-Batter,14.00Crore,Yes,RR,India
+Akeal Hosein,Bowler,1.00Crore,No,SRH,West Indies
+Anmolpreet Singh, Batter,20.00Lakh,No,SRH,India
+Nitish Reddy, WK-Batter,20.00Lakh,No,SRH,India
+Mayank Dagar, Allrounder,1.80Crore,No,SRH,India
+Upendra Yadav, WK-Batter,25.00Lakh,No,SRH,India
+Sanvir Singh, Allrounder,20.00Lakh,No,SRH,India
+Samarth Vyas, Allrounder,20.00Lakh,No,SRH,India
+Vivrant Sharma, Allrounder,2.60Crore,No,SRH,India
+Mayank Agarwal, Batter,8.25Crore,No,SRH,India
+Mayank Markande, Bowler,50.00Lakh,No,SRH,India
+Adil Rashid,Bowler,2.00Crore,No,SRH,England
+Heinrich Klaasen,WK-Batter,5.25Crore,No,SRH,South Africa
+Harry Brook,Batter,13.25Crore,No,SRH,England
+Rahul Tripathi, Batter,8.50Crore,Yes,SRH,India
+Fazalhaq Farooqi,Bowler,50.00Lakh,Yes,SRH,Afghanistan
+Abhishek Sharma, Allrounder,6.50Crore,Yes,SRH,India
+Glenn Phillips,WK-Batter,1.50Crore,Yes,SRH,New Zealand
+T Natarajan, Bowler,4.00Crore,Yes,SRH,India
+Kartik Tyagi, Bowler,4.00Crore,Yes,SRH,India
+Bhuvneshwar Kumar, Bowler,4.20Crore,Yes,SRH,India
+Washington Sundar, Allrounder,8.75Crore,Yes,SRH,India
+Marco Jansen,Allrounder,4.20Crore,Yes,SRH,South Africa
+Aiden Markram,Batter,2.60Crore,Yes,SRH,South Africa
+Umran Malik, Bowler,4.00Crore,Yes,SRH,India
+Abdul Samad, Allrounder,4.00Crore,Yes,SRH,India
