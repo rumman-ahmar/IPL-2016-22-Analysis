@@ -1,4 +1,4 @@
-# IPL-2016-22-Analysis
+# IPL 2016-22 Analysis
 
 A dashboard made in Power BI that shows the players performance analysis.
 
